@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"build" : "libraries/MPRISPopup",
+					"jsonFile" : "directory-libraries.MPRISPopup-Debug-38c1b221a94342b3af8b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libraries/MPRISPopup",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "MPRISPopup",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "MPRISPopup::@13b4aa1a5bea44377ec5",
+					"jsonFile" : "target-MPRISPopup-Debug-de1d0f76f7bdb6291176.json",
+					"name" : "MPRISPopup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mpris-down::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mpris-down-Debug-4f2b2a7718c7e44ac3f2.json",
+					"name" : "mpris-down",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mpris-up::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mpris-up-Debug-b0f8aae6059686a98aae.json",
+					"name" : "mpris-up",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rafa/programs/dotfiles/sebek-os/waybar/data/audiowidgets/MPRISPopup/out/Debug",
+		"source" : "/home/rafa/programs/dotfiles/sebek-os/waybar/data/audiowidgets/MPRISPopup"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

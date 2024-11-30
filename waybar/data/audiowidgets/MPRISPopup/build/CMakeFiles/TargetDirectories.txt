@@ -1,0 +1,7 @@
+/home/rafa/programs/dotfiles/sebek-os/waybar/data/audiowidgets/MPRISPopup/build/CMakeFiles/mpris-up.dir
+/home/rafa/programs/dotfiles/sebek-os/waybar/data/audiowidgets/MPRISPopup/build/CMakeFiles/mpris-down.dir
+/home/rafa/programs/dotfiles/sebek-os/waybar/data/audiowidgets/MPRISPopup/build/CMakeFiles/edit_cache.dir
+/home/rafa/programs/dotfiles/sebek-os/waybar/data/audiowidgets/MPRISPopup/build/CMakeFiles/rebuild_cache.dir
+/home/rafa/programs/dotfiles/sebek-os/waybar/data/audiowidgets/MPRISPopup/build/libraries/MPRISPopup/CMakeFiles/MPRISPopup.dir
+/home/rafa/programs/dotfiles/sebek-os/waybar/data/audiowidgets/MPRISPopup/build/libraries/MPRISPopup/CMakeFiles/edit_cache.dir
+/home/rafa/programs/dotfiles/sebek-os/waybar/data/audiowidgets/MPRISPopup/build/libraries/MPRISPopup/CMakeFiles/rebuild_cache.dir
