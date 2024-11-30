@@ -1,2 +1,3 @@
-!./waybar/data/audiowidgets/MPRISPopup/out/*
-!./waybar/data/audiowidgets/MPRISPopup/build/*
+!waybar/data/audiowidgets/MPRISPopup/out/*
+!waybar/data/audiowidgets/MPRISPopup/build/*
+!waybar/data/audiowidgets/MPRISPopup/.cache/*
